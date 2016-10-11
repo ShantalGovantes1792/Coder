@@ -1,0 +1,84 @@
+
+h1{
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+}
+/*HEADER*/
+.bg-img{
+	background-image: url("../img/header.jpg");
+	background-size: cover;
+	height: 600px;
+}
+.navbar-inverse{
+	opacity: 0.3; 
+}
+
+/* BUTTONS */
+
+hr{
+	border: solid 2px #F05F40;
+	width: 5%;
+	text-align: center; 
+}
+.hr-wh{
+	border: solid 2px #fff;
+	width: 5%;
+	text-align: center; 
+}
+.button-orange{
+	background-color:#F05F40;
+	border-radius: 100px; 
+	padding: 1% 2%;
+	border: none;
+}
+.button-white{
+	background-color:white;
+	border-radius: 100px; 
+	padding: 1% 2% 0% 2%;
+	border: none;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+/*BACKGOUND*/
+.bg-orange{
+	background-color: #F05F40;
+}
+.bg-black{
+	background-color: black;
+}
+/*TEXTOS*/
+.text-white{
+	color: white;
+}
+/* ICONOS */
+i{
+	color: #F05F40;
+}
+footer i{
+	color: black;
+}
+/*SHORTCUTS*/
+
+.pt-5{
+	padding-top: 5%;
+}
+
+.pb-5{
+	padding-bottom: 5%;
+}
+.pl-7{
+	padding-left: 7%;
+}
+.pr-5{
+	padding-right: 5%;
+}
+
+/*IMG-BACKGROUND*/
+
+
+
+
+
+@media screen and (max-width: 800px ) {
+
+}
